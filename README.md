@@ -14,6 +14,7 @@ Simply download and link to the file in your header or concatenate it with the a
 It is referenced exactly like the other options in Materialize, only with an xl instead of an s, m or l.
 
 Example:
+'''
     <div class="container">
     <div class="section">
 
@@ -40,5 +41,6 @@ Example:
 
     </div>
   </div>
+'''
 
 Enjoy!
