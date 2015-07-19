@@ -1,0 +1,29 @@
+{
+  "name": "materializexl",
+  "version": "1.0.0",
+  "description": "A small library to add an xl column in materializecss",
+  "main": "materializexl.css",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristofferandreasen/MaterializeXL.git"
+  },
+  "keywords": [
+    "Grid",
+    "XL",
+    "column"
+  ],
+  "author": "Kristoffer Andreasen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kristofferandreasen/MaterializeXL/issues"
+  },
+  "homepage": "https://github.com/kristofferandreasen/MaterializeXL#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^0.12.3",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
