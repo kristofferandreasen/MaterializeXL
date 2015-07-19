@@ -9,7 +9,7 @@ The XL column is defined by screens larger than 1600px.
 
 Simply download and link to the file in your header or concatenate it with the additional css files.
 
-<link href="css/MaterializeXL.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+'''<link href="css/MaterializeXL.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>'''
 
 It is referenced exactly like the other options in Materialize, only with an xl instead of an s, m or l.
 
